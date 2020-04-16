@@ -1,2 +1,0 @@
-# RNProject
-react native
